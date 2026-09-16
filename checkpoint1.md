@@ -4,7 +4,7 @@
 
 **Group Theme:** Sports and Game Analytics
 
-Our group is interested in how sports and games can be represented and analyzed through data. Our individual projects focus on topics including race and representation in sports, player injuries, soccer player ratings, and player market value.
+Our group is interested in how sports and games can be represented and analyzed through data. Our individual projects focus on topics including race and representation in sports, player injuries, soccer player ratings, player market value, and how chess engines evaluate human play.
 
 
 ## Individual Dataset Ideas
@@ -58,6 +58,25 @@ Kingsley is interested in examining how player characteristics relate to market 
 - [MDPI Research Article](https://www.mdpi.com/2227-7072/10/3/64)
 
 
+### Yavuz Abasiyanik
+
+**Topic:** Engine Evaluation vs. Human Experience in Chess
+
+Chess databases record what happened in a game but not what it was like to play it. This project examines what gets lost when a chess game becomes a row of data.
+
+**Audit:** The Lichess open database contains millions of games, but records only ratings, moves, time control, opening code, and result. It cannot show why a player resigned, whether a blunder came from time pressure or misjudgment, or how the player understood the position.
+
+**Create:** A hand-annotated dataset of 50 to 100 of his own games, with fields no chess database holds: emotional state, time pressure, whether he understood the position, and whether the engine's evaluation matched his experience of playing it.
+
+**Connection:** Both datasets describe the same objects in incompatible ways. The engine treats a move as right or wrong; the player experiences it as a decision under uncertainty.
+
+**Scholarly / Research Sources:**
+
+- [Ensmenger, "Is chess the drosophila of artificial intelligence? A social history of an algorithm," Social Studies of Science (2012)](https://doi.org/10.1177/0306312711424596)
+- [McIlroy-Young et al., "Aligning Superhuman AI with Human Behavior: Chess as a Model System," KDD (2020)](https://arxiv.org/abs/2006.01855)
+- [Lichess Open Database](https://database.lichess.org/)
+
+
 ## Scholarly Context
 
 Each individual project uses published research or existing datasets to understand how sports-related phenomena are represented through data.
@@ -68,6 +87,7 @@ The projects examine different dimensions of sports and game analytics, includin
 - Quantification of player ability
 - Injuries by player position
 - Player characteristics and market value
+- Engine evaluation versus human experience in chess
 
 Together, these topics explore how complex aspects of athletes and sports culture are transformed into categories, statistics, and datasets.
 
@@ -77,3 +97,5 @@ Together, these topics explore how complex aspects of athletes and sports cultur
 Our group will communicate primarily through **iMessage**
 
 We will organize our shared **GitHub repository according to the instructor's recommendations**. Each group member will maintain their individual project materials while contributing to the shared documentation and final group website.
+
+Tasks will be tracked in GitHub Issues, and all changes to the shared repository will go through pull requests so each member's contributions are documented.
