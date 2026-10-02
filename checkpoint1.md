@@ -50,7 +50,6 @@ Andres is interested in examining how injury rates differ by player position in 
 - [International Journal of Sports Physiology and Performance](https://journals.humankinetics.com/view/journals/ijspp/12/10/article-p1297.xml)
 
 
-### Kingsley Osei-Tutu
 
 ### Kingsley Osei-Tutu
 
