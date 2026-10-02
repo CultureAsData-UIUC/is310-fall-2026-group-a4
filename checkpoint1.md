@@ -52,9 +52,19 @@ Andres is interested in examining how injury rates differ by player position in 
 
 ### Kingsley Osei-Tutu
 
+### Kingsley Osei-Tutu
+
 **Topic:** What Player Characteristics Have the Strongest Relationship with Market Value in Professional Soccer?
 
-Kingsley is interested in examining how player characteristics relate to market value in professional soccer.
+This project examines how professional soccer players are assigned monetary value and which player characteristics appear to have the strongest relationship with that value. I am interested in characteristics such as age, position, overall rating, potential, nationality, and other performance-related attributes.
+
+**Audit:** I plan to examine the FIFA 21 Players Dataset from Kaggle as an existing representation of professional soccer players. The dataset turns players into a collection of numerical ratings and categories, including overall ability, potential, position, age, nationality, and market value. I want to examine which characteristics the dataset treats as important and what information about a player's value may be missing.
+
+**Create:** I plan to create a smaller dataset of approximately 50–100 professional soccer players. The dataset will focus on characteristics that may help explain differences in player market value. As I develop the dataset, I will decide which characteristics are useful to include and document how those choices shape the way players are represented.
+
+**Connection:** The custom dataset and FIFA 21 dataset will both represent professional soccer players, allowing me to compare the characteristics each dataset uses to describe player value. This will help me examine not only which characteristics are related to market value, but also how the choice of what gets recorded affects our understanding of why one player is valued more highly than another.
+
+**Connection to group theme:** This project fits the group's Sports and Game Analytics theme because player market value is another way that complex athletic performance is transformed into a numerical measurement. Like player ratings, injury statistics, and chess evaluations, market value reduces many aspects of a player's career and performance into measurable categories.
 
 **Potential Data / Research Sources:**
 
