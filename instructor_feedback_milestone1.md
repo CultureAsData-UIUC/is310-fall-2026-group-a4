@@ -12,7 +12,7 @@ The main piece that needs revision is the individual planning. Jack, Gavin, Andr
 
 I think your collaboration plan is concrete and feasible. The individual folders, shared documentation, website structure, Issues, and pull requests should help make the work navigable and your contributions visible. Your next step is to implement that structure and use commits and group logs to document who is doing what, including work that happens outside the repository. One practical point: if your website lives in `site/`, make sure your GitHub Pages publishing setup actually deploys that folder rather than assuming it will happen automatically.
 
-Overall, I think you have a strong collective focus. Please keep the scope and collaboration plan, and expand the individual proposals so that everyone has a concrete plan for both approaches before this milestone can pass.
+Overall, I think you have a strong collective focus and looking forward to seeing how you develop your individual projects and connect them to the shared question of how sports and games become data!
 
 ## Individual Feedback
 
