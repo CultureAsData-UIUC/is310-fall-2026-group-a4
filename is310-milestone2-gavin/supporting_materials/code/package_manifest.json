@@ -1,0 +1,184 @@
+{
+  "package": "IS310 FC26 and 2024-25 Premier League comparison",
+  "prepared_for": "Gavin Wang",
+  "review_date": "2026-11-03",
+  "assistance_disclosure": "ai-chat-log.md",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2722,
+      "sha256": "c7dc9af831e5107b22547d3fac5add81d08c850bc76f6eec303e63f938099184"
+    },
+    {
+      "path": "ai-chat-log.md",
+      "bytes": 638,
+      "sha256": "15768be34ab7193139defc658ef3adbaa4873fa2058c8b7497ad40c43d91dda3"
+    },
+    {
+      "path": "dataset.csv",
+      "bytes": 70158,
+      "sha256": "ab12318a296c584833d3b8ab7185015433b802032c3dba135f27f0d444ca4f0c"
+    },
+    {
+      "path": "player_comparisons.md",
+      "bytes": 44164,
+      "sha256": "96f066af6b98bd78d1dd8ce8efbf6b382495eafb04e798128dc8876b08b442c0"
+    },
+    {
+      "path": "research_notes.md",
+      "bytes": 19104,
+      "sha256": "39d397c2e348e68dac6f68ea85f20e49472520c5916db588b812f5dd0069ff40"
+    },
+    {
+      "path": "supporting_materials/code/analyze.py",
+      "bytes": 1958,
+      "sha256": "1e079b506fa469163e16ab9ac3faf4cbde3c3663e2b5192b90cfc88190b4a6bd"
+    },
+    {
+      "path": "supporting_materials/code/build_dataset.py",
+      "bytes": 2001,
+      "sha256": "65a0d0b0e7f2f7f64f0a58b3cdcf9686e69ab12177aa7855c3154918b4d47bef"
+    },
+    {
+      "path": "supporting_materials/code/draft_interpretations.py",
+      "bytes": 7725,
+      "sha256": "67b7597280fe3071293ff3a57d7d6499f1d2836227cd50895255215e6fd06860"
+    },
+    {
+      "path": "supporting_materials/code/fetch_sources.py",
+      "bytes": 2221,
+      "sha256": "1a58ae1cc57cf27caaee40166d16e81b84032fab08b13e2297b28eed441e9478"
+    },
+    {
+      "path": "supporting_materials/code/inputs/identity_crosswalk.csv",
+      "bytes": 13877,
+      "sha256": "d9e47fdd98dfc09fdc98fc411906deda184815fdceb73b038520f2149fe8efc6"
+    },
+    {
+      "path": "supporting_materials/code/inputs/player_interpretations.csv",
+      "bytes": 31343,
+      "sha256": "9bd6a94ce67c9560c2edf3df7102e608f21f438b9c0899910ebba99ac4478a90"
+    },
+    {
+      "path": "supporting_materials/code/inputs/rating_scope_review.json",
+      "bytes": 341,
+      "sha256": "b13750369ebe99160b895f712094972c218223804bc0aed5088dc2460a753828"
+    },
+    {
+      "path": "supporting_materials/code/inputs/source_checks.csv",
+      "bytes": 2200,
+      "sha256": "b69405197d7437f77244876c08465c3fd40290e49a3e261c4c7aecf17fdc48d4"
+    },
+    {
+      "path": "supporting_materials/code/interpretation_drafts.py",
+      "bytes": 32268,
+      "sha256": "dd064cd33b80d27d383b3755ae127af6e25f1b8b2ebdaa6bd6fa3f7d41f3e789"
+    },
+    {
+      "path": "supporting_materials/code/project.py",
+      "bytes": 6565,
+      "sha256": "ec92f1b20ec04663393d9292366f197412d10af7a5a2a6b07d7bfa47038fc513"
+    },
+    {
+      "path": "supporting_materials/code/tests/test_workflow.py",
+      "bytes": 3281,
+      "sha256": "c2f769280e8a1d18c178c9644edb183d333ecf3f416ddd2e538f6d96d30fe6e7"
+    },
+    {
+      "path": "supporting_materials/code/validate.py",
+      "bytes": 5129,
+      "sha256": "7d7b7fe1d4fbfff208032e4dcbc64d2f26a793c590a815c0e848e1898dd4361f"
+    },
+    {
+      "path": "supporting_materials/code/verification.json",
+      "bytes": 1903,
+      "sha256": "4522dd71afb7a672ae06cfdc5ec9f260a2572a8caf598f95c24f404855827ca2"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_LICENSE.txt",
+      "bytes": 1193,
+      "sha256": "f9b9b3b49e6701261d482d2900d1cf3d769904505deeab528fc73fb4c8c441bf"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_LICENSE.txt.provenance.json",
+      "bytes": 354,
+      "sha256": "b5bc144df713a861e2a6c8e4526da776ecdcc2e59264ec1dca14689211dac500"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_README.md",
+      "bytes": 9046,
+      "sha256": "bc8169927a58203bf99c943a7c776eb64c7b8dcfe1944348a628c25924fa452c"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_README.md.provenance.json",
+      "bytes": 356,
+      "sha256": "1127553fd0d6a019a16914a22d49bf8cbfd6e0f7d8f33ccbde9c75baeb1db010"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_commit.json",
+      "bytes": 3310,
+      "sha256": "06fbd1d47c077ce633f4f0edfdd43980dc879f38ea61301aefb58144c6e9fd39"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_getters.py",
+      "bytes": 4226,
+      "sha256": "242a7706459b1313b9b2b195391d217df23650461d43404894b2fe67a103d255"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_getters.py.provenance.json",
+      "bytes": 357,
+      "sha256": "0bd65d1f4fb12c3d430b34ec275b5065d01d8514e8b5d107b74330a02205adc8"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_players_2024-25.csv",
+      "bytes": 342122,
+      "sha256": "75686051b265cbe7755ac71213ecaad21b26ee1cc46a8bafbba19c39ce894b05"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_players_2024-25.csv.provenance.json",
+      "bytes": 377,
+      "sha256": "b3ff59290ea11f81d60be4f3a4fe71df55310de327a38387ad81234867268929"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_teams_2024-25.csv",
+      "bytes": 1717,
+      "sha256": "d10a6db8feca6db9e44a3ba50b15168396667ea387fee9235d6b211c7f598c3b"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_teams_2024-25.csv.provenance.json",
+      "bytes": 369,
+      "sha256": "9328a93df112cd755156bd99162df45567f5c70173ae7b970370bf411429e166"
+    },
+    {
+      "path": "supporting_materials/raw_data/kaggle_fc26_v1.zip",
+      "bytes": 3711250,
+      "sha256": "1ddc4956b1ef7752713df7aca2e78e344a201c12af5ea43ded3e993a8cf3cf98"
+    },
+    {
+      "path": "supporting_materials/raw_data/kaggle_fc26_v1.zip.provenance.json",
+      "bytes": 307,
+      "sha256": "fb2b1c3db476a902953de5345eb8dbc650b0d4128b50a176b01d6d1aa7fd1849"
+    },
+    {
+      "path": "supporting_materials/raw_data/kaggle_metadata.json",
+      "bytes": 6545,
+      "sha256": "954ab335af7516187e616317423ceade40faf0fe8077d2b292c675aba4ef3dc9"
+    },
+    {
+      "path": "supporting_materials/raw_data/kaggle_metadata.json.provenance.json",
+      "bytes": 277,
+      "sha256": "566ec0cf71d9328165651b0f8e5177200d32d69c05a27e628d9b26792021766f"
+    },
+    {
+      "path": "supporting_materials/raw_data/kaggle_search.json",
+      "bytes": 11740,
+      "sha256": "b3b8c00083254a6b44293647d9297b7694efc9ba04a9efd27fa23bbf77604dab"
+    },
+    {
+      "path": "supporting_materials/raw_data/source_manifest.json",
+      "bytes": 4453,
+      "sha256": "5cf78444a007f26436c51ce9b6bfef7b2e3eb39d363965ae9c58f99a260848b6"
+    }
+  ],
+  "manifest_note": "Hashes cover every package file other than this self-referential manifest. Source retrieval metadata is preserved under raw_data; note review is separate from external source verification."
+}

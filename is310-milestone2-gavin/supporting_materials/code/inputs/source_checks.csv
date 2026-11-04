@@ -1,0 +1,11 @@
+fpl_id,ea_id,player_name,check_fields,snapshot_values,candidate_reference_url,assistant_observation,evidence_url,finding,checked_at,reviewer,review_status
+267,246685,Leif Davis,name;club;position;OVR;SHO;PAS,OVR=76;SHO=54;PAS=76;PHY=73,https://www.ea.com/games/ea-sports-fc/ratings/player-ratings/leif-davis/246685,,,,,,needs_review
+163,239231,Marc Cucurella,name;club;position;OVR;SHO;PAS,OVR=84;SHO=64;PAS=79;PHY=79,https://www.ea.com/games/ea-sports-fc/ratings/player-ratings/marc-cucurella/239231,,,,,,needs_review
+44,227678,Ezri Konsa,name;club;position;OVR;SHO;PAS,OVR=82;SHO=53;PAS=71;PHY=78,https://www.ea.com/games/ea-sports-fc/ratings/player-ratings/ezri-konsa/227678,,,,,,needs_review
+17,246669,Bukayo Saka,name;club;position;OVR;SHO;PAS,OVR=88;SHO=82;PAS=85;PHY=73,https://www.ea.com/games/ea-sports-fc/ratings/player-ratings/bukayo-saka/246669,,,,,,needs_review
+611,220139,Sammie Szmodics,name;club;position;OVR;SHO;PAS,OVR=74;SHO=73;PAS=69;PHY=63,https://www.ea.com/games/ea-sports-fc/ratings/player-ratings/sammie-szmodics/220139,,,,,,needs_review
+525,245155,Mohammed Kudus,name;club;position;OVR;SHO;PAS,OVR=80;SHO=76;PAS=72;PHY=74,https://www.ea.com/games/ea-sports-fc/ratings/player-ratings/mohammed-kudus/245155,,,,,,needs_review
+207,236461,Jean-Philippe Mateta,name;club;position;OVR;SHO;PAS,OVR=82;SHO=84;PAS=70;PHY=81,https://www.ea.com/games/ea-sports-fc/ratings/player-ratings/jean-philippe-mateta/236461,,,,,,needs_review
+82,225539,Dominic Solanke,name;club;position;OVR;SHO;PAS,OVR=80;SHO=80;PAS=66;PHY=83,https://www.ea.com/games/ea-sports-fc/ratings/player-ratings/dominic-solanke/225539,,,,,,needs_review
+351,239085,Erling Haaland,OVR;SHO;PHY,OVR=90;SHO=91;PAS=70;PHY=88,https://www.ea.com/games/ea-sports-fc/ratings/player-ratings/erling-haaland/239085,"Club's FC26 reveal reports Haaland OVR90, SHO91, PHY88, matching v1. This supports these values, not every row's snapshot date.",https://www.mancity.com/news/club/ea-sports-fc-26-ratings-revealed-63893028,,,,needs_review
+541,240243,Matheus Cunha,name;club;position;OVR;SHO;PAS,OVR=83;SHO=85;PAS=79;PHY=75,https://www.ea.com/games/ea-sports-fc/ratings/player-ratings/matheus-cunha/240243,,,,,,needs_review

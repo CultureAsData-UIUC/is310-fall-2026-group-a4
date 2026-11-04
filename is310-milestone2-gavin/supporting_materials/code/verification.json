@@ -1,0 +1,47 @@
+{
+  "checked_at_utc": "2026-11-04T00:53:28.057390+00:00",
+  "dataset_rows": 60,
+  "dataset_columns": 50,
+  "top_level_items": [
+    "dataset.csv",
+    "player_comparisons.md",
+    "research_notes.md",
+    "ai-chat-log.md",
+    "README.md",
+    "supporting_materials/"
+  ],
+  "note_review": {
+    "status": "reviewed",
+    "count": 60,
+    "reviewed_by": "Gavin Wang",
+    "review_date": "2026-11-03",
+    "evidence": "User confirmation in the chat"
+  },
+  "review_does_not_establish": [
+    "independent player identity confirmation",
+    "ten historical ratings checks",
+    "effective rating date"
+  ],
+  "source_files_preserved_byte_for_byte": 16,
+  "football_values_and_note_text_unchanged": true,
+  "normal_validation": "passed",
+  "workflow_tests_passed": 7,
+  "dataset_rebuild": "byte-identical",
+  "repeat_build_to_existing_directory": "rejected without changing existing bytes",
+  "relocation_check": "passed",
+  "historical_note_renderer": "runs successfully; optional initial proposals remain separate from reviewed notes",
+  "exploratory_analysis_script": "runs successfully",
+  "strict_final_validation": "expected failure: 60 identity checks, 10 historical source checks and one rating-scope decision remain pending",
+  "fully_source_verified": false,
+  "documentation_update": {
+    "date": "2026-11-03",
+    "readme_words": 386,
+    "readme_role": "concise project, dataset and comparison introduction",
+    "all_60_reviewed_evidence_and_limitation_notes_preserved": true,
+    "dataset_and_code_changed": false,
+    "research_notes_role": "field guide, methodology, sources, interpretation rules, limitations and reproducibility",
+    "player_comparisons_role": "cross-player connections and all 60 reviewed player comparisons",
+    "ai_chat_log_role": "separate AI-assistance summary, initial drafting provenance and review disclosure",
+    "user_supplied_reflection_added": true
+  }
+}

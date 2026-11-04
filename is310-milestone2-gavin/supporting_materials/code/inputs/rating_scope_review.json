@@ -1,0 +1,11 @@
+{
+  "decision": "pending",
+  "reviewer": "",
+  "date": "",
+  "evidence": "",
+  "known": "Kaggle v1 initial upload 2025-11-24; card URLs explicitly contain FC26; effective rating date and launch-base scope not independently verified.",
+  "permitted_decisions": [
+    "verified_launch_base",
+    "accept_frozen_extract_with_limitations"
+  ]
+}
