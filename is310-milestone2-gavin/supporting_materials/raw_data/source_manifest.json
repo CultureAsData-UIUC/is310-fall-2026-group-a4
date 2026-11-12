@@ -1,0 +1,110 @@
+{
+  "created_for": "IS310 60-player FC26 versus 2024-25 PL comparison",
+  "files": [
+    {
+      "path": "supporting_materials/raw_data/fpl_LICENSE.txt",
+      "bytes": 1193,
+      "sha256": "f9b9b3b49e6701261d482d2900d1cf3d769904505deeab528fc73fb4c8c441bf"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_LICENSE.txt.provenance.json",
+      "bytes": 354,
+      "sha256": "b5bc144df713a861e2a6c8e4526da776ecdcc2e59264ec1dca14689211dac500"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_README.md",
+      "bytes": 9046,
+      "sha256": "bc8169927a58203bf99c943a7c776eb64c7b8dcfe1944348a628c25924fa452c"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_README.md.provenance.json",
+      "bytes": 356,
+      "sha256": "1127553fd0d6a019a16914a22d49bf8cbfd6e0f7d8f33ccbde9c75baeb1db010"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_commit.json",
+      "bytes": 3310,
+      "sha256": "06fbd1d47c077ce633f4f0edfdd43980dc879f38ea61301aefb58144c6e9fd39"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_getters.py",
+      "bytes": 4226,
+      "sha256": "242a7706459b1313b9b2b195391d217df23650461d43404894b2fe67a103d255"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_getters.py.provenance.json",
+      "bytes": 357,
+      "sha256": "0bd65d1f4fb12c3d430b34ec275b5065d01d8514e8b5d107b74330a02205adc8"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_players_2024-25.csv",
+      "bytes": 342122,
+      "sha256": "75686051b265cbe7755ac71213ecaad21b26ee1cc46a8bafbba19c39ce894b05"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_players_2024-25.csv.provenance.json",
+      "bytes": 377,
+      "sha256": "b3ff59290ea11f81d60be4f3a4fe71df55310de327a38387ad81234867268929"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_teams_2024-25.csv",
+      "bytes": 1717,
+      "sha256": "d10a6db8feca6db9e44a3ba50b15168396667ea387fee9235d6b211c7f598c3b"
+    },
+    {
+      "path": "supporting_materials/raw_data/fpl_teams_2024-25.csv.provenance.json",
+      "bytes": 369,
+      "sha256": "9328a93df112cd755156bd99162df45567f5c70173ae7b970370bf411429e166"
+    },
+    {
+      "path": "supporting_materials/raw_data/kaggle_fc26_v1.zip",
+      "bytes": 3711250,
+      "sha256": "1ddc4956b1ef7752713df7aca2e78e344a201c12af5ea43ded3e993a8cf3cf98"
+    },
+    {
+      "path": "supporting_materials/raw_data/kaggle_fc26_v1.zip.provenance.json",
+      "bytes": 307,
+      "sha256": "fb2b1c3db476a902953de5345eb8dbc650b0d4128b50a176b01d6d1aa7fd1849"
+    },
+    {
+      "path": "supporting_materials/raw_data/kaggle_metadata.json",
+      "bytes": 6545,
+      "sha256": "954ab335af7516187e616317423ceade40faf0fe8077d2b292c675aba4ef3dc9"
+    },
+    {
+      "path": "supporting_materials/raw_data/kaggle_metadata.json.provenance.json",
+      "bytes": 277,
+      "sha256": "566ec0cf71d9328165651b0f8e5177200d32d69c05a27e628d9b26792021766f"
+    },
+    {
+      "path": "supporting_materials/raw_data/kaggle_search.json",
+      "bytes": 11740,
+      "sha256": "b3b8c00083254a6b44293647d9297b7694efc9ba04a9efd27fa23bbf77604dab"
+    }
+  ],
+  "fpl_commit": "59c767596750f554ba464de94cf4fce8664a6cbe",
+  "fpl_archive_commit_date_utc": "2025-06-04T15:20:23Z",
+  "fpl_population_rows": 804,
+  "fpl_scope": "2024-25 Premier League only; archived FPL season totals",
+  "ea_population_rows_men": 16228,
+  "ea_kaggle_version": 1,
+  "ea_version_created_utc": "2025-11-24T17:14:17.667Z",
+  "ea_effective_rating_date": null,
+  "ea_launch_base_verified": false,
+  "ea_metadata_caveat": "The saved dataset description was retrieved in 2026 and describes current version 2; only versions[] dates establish v1 upload information. It does not prove v1 upstream collection time or licensing at its initial release.",
+  "sampling": {
+    "seed_label": 310,
+    "minimum_minutes": 900,
+    "per_fpl_role": 20,
+    "rule": "ascending SHA256('310:element_type:id')",
+    "selection_before_EA_join": true
+  },
+  "status": "60 note records reviewed by Gavin Wang, as confirmed by the user; identity and historical source audit remain pending",
+  "note_review": {
+    "reviewed_by": "Gavin Wang",
+    "review_date": "2026-11-03",
+    "basis": "User explicitly reported reviewing all 60 notes in the chat",
+    "scope": "Interpretation notes; does not establish completion of identity or historical source checks",
+    "initial_note_generation": "AI-assisted; disclosure retained in README"
+  }
+}

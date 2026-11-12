@@ -16,3 +16,12 @@ This file documents our group's progress, decisions, contributions, and next ste
 - Continue developing individual custom datasets.
 - Prepare for the Initial Custom Dataset and Audit Plan.
 - Update this log as the group continues working.
+
+## October 27, 2026
+
+### Contributions
+- Gavin Wang: Reviewed instructor feedback, refined the research question, planned the custom dataset structure, explored computational methods, and prepared initial documentation for Milestone 2.
+  - Narrowed the research focus on how EA Sports FC represents soccer players through numerical attributes.
+  - Developed a plan for creating a custom dataset of 60 soccer match events with additional interpretive categories.
+  - Began drafting documentation, an audit plan, and a reflection for the milestone.
+
